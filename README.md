@@ -18,4 +18,5 @@
 16.GOOGLE DORKER
 # ENJOY 
 # VISIT www.explosionsquadcyber.id 
-# thanks
+# USE PYTHON2
+# THANKS
